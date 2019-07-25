@@ -1,4 +1,4 @@
 # hello-world
-this repo just for learn the git workflow
+Yang ini ternyata harus dihapus dulu
 
 Hello World this is just for helping me to understand how git work
